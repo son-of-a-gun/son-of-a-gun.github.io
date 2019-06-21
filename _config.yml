@@ -7,7 +7,7 @@ description: "Damn Good Spices."
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#e2dbe3'
-  links: '#e1c192'
+  links: '#dba75c'
 
 # Footer settings
 footer: Son of a Gun Seasoning
